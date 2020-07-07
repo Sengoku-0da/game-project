@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "Aproject",
-			"Path": "D:\\thedumpdog\\gamesD\\game-project\\Aproject\\Source\\Aproject.Target.cs",
+			"Path": "C:\\Users\\1\\Documents\\GitHub\\game-project\\Aproject\\Source\\Aproject.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "AprojectEditor",
-			"Path": "D:\\thedumpdog\\gamesD\\game-project\\Aproject\\Source\\AprojectEditor.Target.cs",
+			"Path": "C:\\Users\\1\\Documents\\GitHub\\game-project\\Aproject\\Source\\AprojectEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

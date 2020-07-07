@@ -1,2 +1,2 @@
-D:\thedumpdog\gamesD\game-project\Aproject\Intermediate\Build\Win64\UE4Editor\Development\Aproject\Definitions.Aproject.h
-D:\thedumpdog\gamesD\game-project\Aproject\Source\Aproject\Aproject.h
+C:\Users\1\Documents\GitHub\game-project\Aproject\Intermediate\Build\Win64\UE4Editor\Development\Aproject\Definitions.Aproject.h
+C:\Users\1\Documents\GitHub\game-project\Aproject\Source\Aproject\Aproject.h

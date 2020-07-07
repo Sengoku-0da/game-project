@@ -1,13 +1,13 @@
-D:\thedumpdog\gamesD\game-project\Aproject\Intermediate\Build\Win64\UE4Editor\Development\Aproject\Definitions.Aproject.h
-D:\thedumpdog\gamesD\game-project\Aproject\Source\Aproject\AprojectGameMode.h
-D:\games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-D:\games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-D:\games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-D:\games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-D:\thedumpdog\gamesD\game-project\Aproject\Intermediate\Build\Win64\UE4Editor\Inc\Aproject\AprojectGameMode.generated.h
-D:\thedumpdog\gamesD\game-project\Aproject\Source\Aproject\AprojectCharacter.h
-D:\games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
-D:\games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
-D:\games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
-D:\games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
-D:\thedumpdog\gamesD\game-project\Aproject\Intermediate\Build\Win64\UE4Editor\Inc\Aproject\AprojectCharacter.generated.h
+C:\Users\1\Documents\GitHub\game-project\Aproject\Intermediate\Build\Win64\UE4Editor\Development\Aproject\Definitions.Aproject.h
+C:\Users\1\Documents\GitHub\game-project\Aproject\Source\Aproject\AprojectGameMode.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\1\Documents\GitHub\game-project\Aproject\Intermediate\Build\Win64\UE4Editor\Inc\Aproject\AprojectGameMode.generated.h
+C:\Users\1\Documents\GitHub\game-project\Aproject\Source\Aproject\AprojectCharacter.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\1\Documents\GitHub\game-project\Aproject\Intermediate\Build\Win64\UE4Editor\Inc\Aproject\AprojectCharacter.generated.h
