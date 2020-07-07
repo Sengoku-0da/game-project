@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\thedumpdog\\gamesD\\game-project\\Aproject\\Source\\Aproject\\Aproject.Build.cs",
-		"D:\\thedumpdog\\gamesD\\game-project\\Aproject\\Source\\Aproject.Target.cs",
-		"D:\\thedumpdog\\gamesD\\game-project\\Aproject\\Source\\AprojectEditor.Target.cs"
+		"C:\\Users\\1\\Documents\\GitHub\\game-project\\Aproject\\Source\\Aproject\\Aproject.Build.cs",
+		"C:\\Users\\1\\Documents\\GitHub\\game-project\\Aproject\\Source\\Aproject.Target.cs",
+		"C:\\Users\\1\\Documents\\GitHub\\game-project\\Aproject\\Source\\AprojectEditor.Target.cs"
 	],
 	"EngineVersion": "4.25.1"
 }
